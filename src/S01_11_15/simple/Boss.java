@@ -1,4 +1,4 @@
-package S01_11_15;
+package S01_11_15.simple;
 
 /**
  * Created by roma on 01.11.15.
