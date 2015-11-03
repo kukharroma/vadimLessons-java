@@ -8,6 +8,7 @@ public class Boss extends BaseEmployee {
     public Boss(String name, int numbersOfSubordinates, double salary) {
         super(name, numbersOfSubordinates, salary);
     }
+
     @Override
     public double getSalary() {
         double salary = 0;
